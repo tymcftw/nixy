@@ -1,6 +1,6 @@
 keys:
-  - &primary age12yvtj49pfh3fqzqflscm0ek4yzrjhr6cqhn7x89gdxnlykq0xudq5c7334
-  - &work age1c8pawdsxptfslgrz2c56s39mrtnjzc5mm3hfzgr2wdwu2v6vfsdsupjsq6
+  - &primary 
+  - &work 
 creation_rules:
   - path_regex: modules/hosts/laptop/_secrets/secrets.yaml$
     key_groups:
